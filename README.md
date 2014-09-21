@@ -1,5 +1,5 @@
 ###Usage
-1. 把hosts文件覆盖C:\Windows\System32\drivers\etc
-2. 如果失效，使用下面的Git命令更新,或者到[Github](https://gist.github.com/DingSoung/5f00ad4e7fa8006c8dde)下载
+1. 鎶奾osts鏂囦欢瑕嗙洊C:\Windows\System32\drivers\etc
+2. 濡傛灉澶辨晥锛屼娇鐢ㄤ笅闈㈢殑Git鍛戒护鏇存柊,鎴栬�呭埌[Github](https://gist.github.com/DingSoung/5f00ad4e7fa8006c8dde)涓嬭浇
 
 	git pull

@@ -13,7 +13,6 @@
 #  #Ver : 2.17.0489 Asata Shino
 #  #Update Time : 2014.10.08;15:08
 #  #Fix & Bug : 
-#  # 2.17.0490: 补充数个谷歌域名，感谢网友Pluto Hades。
 #  # 2.17.0489: 修复FlipBoard，感谢网友Lee Chieh Chan。
 #  # 2.16.0488: 修复DuckDuckGo，感谢网友Christin Chow、Jack YouOSX。
 #  # 2.16.0487: 修复数个格式问题，感谢网友u yao。
@@ -2626,9 +2625,8 @@
 #FlipBoard END
 
 #DuckDuckGo START
-184.72.115.86	duckduckgo.com
-184.72.115.86	www.duckduckgo.com
 184.72.115.86	search.duckduckgo.com
+184.72.115.86	duckduxkgo.com
 46.51.197.89	ac.duckduckgo.com
 176.34.155.20	icons.duckduckgo.com
 176.34.155.20	images.duckduckgo.com
@@ -4242,7 +4240,6 @@
 74.125.207.132	doc-08-6g-docs.googleusercontent.com
 74.125.207.132	doc-0k-bk-docs.googleusercontent.com
 74.125.207.132	doc-10-6g-docs.googleusercontent.com
-74.125.207.132	doc-10-00-docs.googleusercontent.com
 #74.125.207.132	t.doc-0-0-sj.sj.googleusercontent.com
 74.125.207.132	images1-focus-opensocial.googleusercontent.com
 74.125.207.132	images2-focus-opensocial.googleusercontent.com

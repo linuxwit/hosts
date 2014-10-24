@@ -1,0 +1,4 @@
+.gitattributes
+hosts
+*.txt
+*.MD

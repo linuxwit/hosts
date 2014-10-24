@@ -6,6 +6,7 @@
 
 ####update
 hosts 来源 [imouto.hosts](https://github.com/zxdrive/imouto.host)
+[txthinking](https://github.com/txthinking/google-hosts.git)
 
 
 =======
